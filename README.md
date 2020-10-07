@@ -16,27 +16,28 @@ To open the database design, use MySQL Workbench.
 ## Other Component of this Project
 This project is based on microservice architecture, so each part of the product has its own repository.
 
-### OSM data converter
+### [OSM Converter](https://github.com/chrisyao4700/cookery_map_osm)
 ```angular2
     https://github.com/chrisyao4700/cookery_map_osm
 ```
-[OSM Converter](https://github.com/chrisyao4700/cookery_map_osm)
-### Batching
+
+### [Spark Batching](https://github.com/chrisyao4700/cookery_map_batching)
 ```angular2
     https://github.com/chrisyao4700/cookery_map_batching
 ```
-[Spark Batching](https://github.com/chrisyao4700/cookery_map_batching)
 
-### API
+
+### [API Host](https://github.com/chrisyao4700/cookery_map_api)
 ```angular2
     https://github.com/chrisyao4700/cookery_map_api
 ```
-[API Host](https://github.com/chrisyao4700/cookery_map_api)
+
 ### Demo Website
 ```angular2
     https://github.com/chrisyao4700/chris-web
 ```
 [Demo Website Github](https://github.com/chrisyao4700/chris-web)
+
 [Demo Website](https://chrisyao0908.com/cookery)
 
 *Note that it's hosted under my resume website, but it do have separated Component folder 'cookery'.
