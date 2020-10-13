@@ -11,7 +11,7 @@ To open the database design, use MySQL Workbench.
 
 [MySQL Workbench](https://www.mysql.com/products/workbench)
 
-![Image of the Design](https://user-images.githubusercontent.com/8865339/95116521-02986880-06fc-11eb-91b8-611fb240a087.png)
+![Image of the Design](https://user-images.githubusercontent.com/8865339/95886017-dcde1580-0d32-11eb-935b-0c59e94f51ce.png)
 
 ## Other Component of this Project
 This project is based on microservice architecture, so each part of the product has its own repository.
