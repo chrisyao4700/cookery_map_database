@@ -21,11 +21,15 @@ This project is based on microservice architecture, so each part of the product 
     https://github.com/chrisyao4700/cookery_map_osm
 ```
 
-### [Spark Batching](https://github.com/chrisyao4700/cookery_map_batching)
+### [Spark Node Batching](https://github.com/chrisyao4700/cookery_map_batching)
 ```angular2
     https://github.com/chrisyao4700/cookery_map_batching
 ```
 
+### [Python Spark Batching](https://github.com/chrisyao4700/spark-python.git)
+```angular2
+    https://github.com/chrisyao4700/spark-python.git
+```
 
 ### [API Host](https://github.com/chrisyao4700/cookery_map_api)
 ```angular2
